@@ -15,14 +15,14 @@ section {
   width: 100%;
 }
 
-#gallery .row > *{
+#gallery .row > * {
   padding: 0;
 }
 
 /* My keyboard section */
 .keyboard-box {
   position: relative;
-  background-color: #0291E4;
+  background-color: #0291e4;
   border-radius: 10px;
   height: 500px;
   width: 400px;
@@ -30,7 +30,7 @@ section {
 }
 
 .keyboard-box::before {
-  content: 'MY';
+  content: "MY";
   position: absolute;
   color: #fff;
   font-size: 6em;
@@ -48,7 +48,7 @@ section {
 }
 
 .keyboard-box::after {
-  content: 'KEYBOARD';
+  content: "KEYBOARD";
   position: absolute;
   color: #fff;
   font-size: 4.3em;
